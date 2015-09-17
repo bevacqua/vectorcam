@@ -85,7 +85,7 @@ Adds a `frame`. It can be whatever [`gifshot`][1] accepts.
 
 # `cam.snap()`
 
-Adds a frame taken from the `<svg>` element. It can be whatever [`gifshot`][1] accepts.
+Adds a frame taken from the `<svg>` element.
 
 # `cam.stop(done?)`
 
