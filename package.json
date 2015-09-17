@@ -1,6 +1,6 @@
 {
   "name": "vectorcam",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Record gifs out of <svg> elements painlessly",
   "scripts": {
     "build": "browserify -dvo dist/vectorcam.js vectorcam.js && uglifyjs -m -c -o dist/vectorcam.min.js dist/vectorcam.js",
