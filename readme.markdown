@@ -99,9 +99,19 @@ Returns a read-only view into the recorded frames.
 
 Returns a read-only view into whether the camera is _"on"_ _-- recording frames automatically with `cam.snap` at a `fps/second` speed._
 
+# demo
+
+See [bevacqua.github.io/promisees][3] for a live demo. You click on the video camera icon and then it generates a gif using `vectorcam`.
+
+# example gif
+
+[![promisees visualization using vectorcam][4]][3]
+
 # license
 
 MIT
 
 [1]: https://github.com/yahoo/gifshot
 [2]: https://github.com/yahoo/gifshot/issues/40
+[3]: http://bevacqua.github.io/promisees
+[4]: http://i.imgur.com/Ou5Q0Nb.gif
